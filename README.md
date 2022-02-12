@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... a lot
 - 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... nothing specific at the moment
-- 📫 How to reach me ... 
+- 📫 How to reach me ... vincent.teune@kiwidragoncreations.com
 
 <!---
 cobalt88/cobalt88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
