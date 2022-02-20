@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vincent Teune
+- 👋 Hi, I’m Vince
 - 👀 I’m interested in ... a lot
 - 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... nothing specific at the moment
