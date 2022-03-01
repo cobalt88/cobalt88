@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Vince
 - 👀 I’m interested in ... a lot
 - 🌱 I’m currently learning ... Full Stack Web Development
-- 💞️ I’m looking to collaborate on ... something... ideas are brewing.
-- 📫 How to reach me ... vincentteune@gmail.com, I am also on slack under that same email. 
+- 💞️ I’m looking to collaborate on ... something... ideas are brewing. Right now I am building a WebDev Reference site if anyone is interested in helping with that.
+- 📫 How to reach me ... 
+- vincentteune@gmail.com for personal or github related stuff, I am also on slack under that same email, 
+- vincent.teune@kiwidragoncreations.com for business stuff,
+- https://www.linkedin.com/in/vincent-teune-2779404b/ for everything else.
 
 <!---
 cobalt88/cobalt88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
