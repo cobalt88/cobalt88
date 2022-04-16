@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vince
 - 👀 I’m interested in ... a lot
-- 🌱 I’m currently learning ... Full Stack Web Development
-- 💞️ I’m looking to collaborate on ... something... ideas are brewing. Right now I am building a WebDev Reference site if anyone is interested in helping with that.
+- 🌱 I’m currently learning ... The full MERN Stack
+- 💞️ I’m looking to collaborate on ... something... ideas are brewing. Right now I am building an AVAP (as vanilla as possible) WebDev Reference site if anyone is interested in helping with that.
 - 📫 How to reach me ... 
 - vincentteune@gmail.com for personal or github related stuff, I am also on slack under that same email, 
 - vincent.teune@kiwidragoncreations.com for business stuff,
