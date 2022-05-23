@@ -15,7 +15,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cobalt88&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cobalt88&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobalt88&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/Brainybrian316)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobalt88&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/cobalt88)
 [![trophy](https://github-profile-trophy.vercel.app/?username=cobalt88&theme=tokyonight)](https://github.com/cobalt88/github-profile-trophy)
 
 <!---
